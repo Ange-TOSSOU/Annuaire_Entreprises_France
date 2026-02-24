@@ -3,7 +3,6 @@
 ## Fabrication de composants électroniques
 ### GE
 - BARILLEC SAS
-- CAPGEMINI SERVICE
 - EDF ENR PWT
 - PIEZOTECH S.A.
 - ROBERT BOSCH FRANCE
@@ -257,7 +256,7 @@
 ### GE
 - BARILLEC SAS
 - GDI SIMULATION
-- SAFRAN ELECTRONICS & DEFENSE
+- [SAFRAN GROUP](https://www.safran-group.com/jobs)
 - SNEF
 - SODERN
 - SOGITEC INDUSTRIES
@@ -286,7 +285,7 @@
 ## Edition de jeux électroniques
 ### GE
 - BARRIERE DIGITAL ENTERTAINMENT
-- BLIZZARD ENTERTAINMENT SAS
+- [BLIZZARD ENTERTAINMENT SAS](https://careers.blizzard.com/fr/fr/search-results)
 - GAMELOFT PARIS
 - GAMELOFT SE
 - ISCOOL ENTERTAINMENT
@@ -296,7 +295,7 @@
 - UBISOFT ENTERTAINMENT
 - UBISOFT MOBILE GAMES
 - WHAT (GAMES)
-- ZENIMAX FRANCE SAS
+- [ZENIMAX MEDIA](https://jobs.zenimax.com/jobs)
 ### ETI
 - ADICTIZ
 - ANKAMA GAMES
@@ -321,9 +320,8 @@
 - VOODOO
 ## Edition logiciels système et réseau
 ### GE
-- ALTERSIS REGIONS
 - ASTERIOS TECHNOLOGIES
-- BEEZUP
+- [BEEZUP](https://www.beezup.com/recrutement)
 - CENTRIC SOFTWARE SAS
 - DASSAULT SYSTEMES PROVENCE
 - DEVELOPPEMENT PLEIADE
@@ -337,8 +335,6 @@
 - RITMX
 - SBS SOFTWARE
 - SIEMENS ELECTRONIC DESIGN AUTOMATION SARL
-- SOPRA FINANCING SOFTWARE
-- SOPRA HR SOFTWARE
 - STORMSHIELD
 - SYSGO
 ### ETI
@@ -405,8 +401,8 @@
 - TOPSOLID
 ## Edition de logiciels outils de développement et de langages
 ### GE
-- AVEPOINT DEUTSCHLAND GMBH
-- AVEVA
+- [AVEPOINT](https://www.avepoint.com/fr/careers#marketoform)
+- [AVEVA](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers)
 - DECATHLON OUTDOOR
 - EVIDIAN
 - SIEMENS INDUSTRY SOFTWARE SAS
@@ -427,11 +423,10 @@
 ### GE
 - 3D SOFT
 - AIMSUN SARL
-- ALTERSIS PERFORMANCE FRANCE
+- [ALTERSIS](https://www.altersis.com/fr/altersis_jobs)
 - ALTSIS
 - ARES 24
 - ARONDOR SOFTWARE
-- ATOS INVESTISSEMENT 24
 - AXESSIM
 - BLUEKIWI SOFTWARE
 - CINETWORK
@@ -447,8 +442,6 @@
 - ESABORA DIGITAL SERVICES
 - EURO INFORMATION DEVELOPPEMENTS
 - EVIDIAN
-- FIDUCIAL DIGITAL SOLUTIONS
-- FIDUCIAL INFORMATIQUE
 - FULLL
 - GEOMAGICAL LABS INC
 - GUTENBERG TECHNOLOGY
@@ -802,12 +795,11 @@
 - ALSACE CONNEXIA
 - ARIEGE TELECOM
 - ARTERIA
-- AXIONE
-- BIRDZ
+- [AXIONE](https://carrieres-axionefrance.icims.com/jobs)
+- [BIRDZ](https://www.birdz.com/birdz/nous-rejoindre)
 - BT PROJETS IV
 - BT PROJETS VII
-- CANAL + TELECOM
-- CANAL+ FRANCE
+- [CANAL+ GROUPE](https://joinus.canalplus.com/go/Nos-offres/8554202)
 - CITYFAST
 - COMPLETEL SAS
 - COMPLEXE ARCHIVES
@@ -903,7 +895,6 @@
 - AT&T GLOBAL NETWORK SERVICES FRANCE SAS
 - ATH
 - AUBACOM
-- AXIONE LIMOUSIN
 - AZALEE
 - BERRY THD
 - BFC FIBRE
@@ -1025,8 +1016,7 @@
 ## Télécommunications sans fil
 ### GE
 - AFONE PARTICIPATIONS
-- BIRDZ
-- BOUYGUES TELECOM
+- [BOUYGUES TELECOM](https://www.corporate.bouyguestelecom.fr/travailler-ensemble/nos-offres)
 - CORIOLIS TELECOM SAS
 - DEBITEX TELECOM
 - EOS TELECOM
@@ -1077,9 +1067,7 @@
 - ZEOP MOBILE
 ## Télécommunications par satellite
 ### GE
-- CANAL + ANTILLES
 - GLOBECAST FRANCE
-- GROUPE CANAL+
 - K I O S Q U E
 - ORANGE WALLIS ET FUTUNA
 - SFR FIBRE SAS
@@ -1093,41 +1081,38 @@
 - MENIPPE
 ## Programmation informatique
 ### GE
-- ACCENTURE
-- ACCENTURE TECHNOLOGY SOLUTIONS
-- ACTUAL DIGITAL
+- [ACCENTURE](https://www.accenture.com/fr-fr/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1)
+- [ACTUAL GROUP](https://www.actualgroup.com/nous-rejoindre)
 - ADSTELLAM
 - AGREGIO SOLUTIONS
 - AI REDEFINED FRANCE SAS
-- AIRBUS CYBERSECURITY SAS
-- AKKODIS DIGITAL SAS
+- [AIRBUS](https://ag.wd3.myworkdayjobs.com/Airbus)
+- [AKKODIS](https://www.akkodis.com/fr-fr/emplois/nos-offres?q=)
 - ALEDA SAS
 - ALENTOUR
-- ALLIANCE AUTOMOTIVE TRADING GROUP
+- [ALLIANCE AUTOMOTIVE GROUP](https://emploi.allianceautomotive.fr/recherche-d%27offres)
 - ALM INNOVATION
 - ALTRAN TECHNOLOGY & ENGINEERING CENTER
-- AMAZON TECHNOLOGICAL SERVICES
-- AMPERE SOFTWARE TECHNOLOGY
-- APAVE DIGITAL
+- [AMPERE SOFTWARE TECHNOLOGY](https://alliancewd.wd3.myworkdayjobs.com/fr-FR/renault-group-careers?q=ampere)
+- [APAVE Group](https://www.apave.com/fr-FR/Nous-rejoindre/Toutes-nos-offres)
 - AR24
 - ARGO AI GMBH
-- AUTOBIZ
+- [AUTOBIZ](https://corporate.autobiz.com/carrieres/nos-offres-demploi)
 - AUTOBUTLER
-- AVANADE FRANCE
+- [AVANADE FRANCE](https://www.avanade.com/fr-fr/career/search-jobs#sortCriteria=%40job_area_of_expertise%20ascending&f-joblocation=France)
 - AWARE S R L
 - AXIANS UGIT - GIE
 - BAHOUSE
-- BANKIN'
-- BEE2LINK
-- BIEN'ICI
+- [BANKIN'](https://www.welcometothejungle.com/fr/companies/bankin/jobs)
+- [BEE2LINK GROUP](https://careers.werecruit.io/fr/bee2link)
+- [BIEN'ICI](https://corporate.bienici.com/carrieres/nos-offres-d-emploi)
 - BIGBLANK
 - BIOGROUP TECHNOLOGIES
 - BLECKWEN
 - BLUESYSTEMS
-- BNP PARIBAS 3 STEP IT
-- BOUYGUES TELECOM BUSINESS SOLUTION
+- [BNP PARIBAS](https://group.bnpparibas/emploi-carriere/toutes-offres-emploi/france)
+- [BOUYGUES TELECOM BUSINESS SOLUTION](https://candidate.quarksup.net/rhc2s/desktop/postings)
 - BOXTAL
-- BPCE INFOGERANCE ET TECHNOLOGIES
 - C-TECHNOLOGY
 - CAPPTAIN
 - CEGELEC DEFENSE
@@ -1164,8 +1149,6 @@
 - EXPERIS FRANCE
 - FGS FRANCE
 - FIDOR SOLUTIONS AG
-- FIDUCIAL INFORMATIQUE
-- FIDUCIAL ONLINE
 - GABARIT
 - GEKKO TECHNOLOGY
 - GITHUB B.V.
@@ -1239,7 +1222,6 @@
 - RATP SMART SYSTEMS
 - REALYTICS
 - REEZOCORP
-- SAFRAN PASSENGER INNOVATIONS GERMANY
 - SAVEN
 - SCALESQUAD
 - SCALIAN DS
@@ -1866,18 +1848,16 @@
 - ZEST HACCP
 ## Tierces maintenance de systèmes et d'applications informatiques
 ### GE
-- AIRBUS CYBERSECURITY SAS
 - APPEX
 - B'INFORMATION SERVICES
 - BLUELINEA SERVICES
-- BOUYGUES CONSTRUCTION IT
+- [BOUYGUES CONSTRUCTION IT](https://careers.bouygues-construction.com/search/?q=&locationsearch=&searchResultView=LIST&markerViewed=&carouselIndex=&facetFilters=%7B%22jobLocationCountry%22%3A%5B%22France%22%5D%7D&pageNumber=0)
 - CREDIT AGRICOLE TECHNOLOGIES ET SERVICES
 - CYBER-WAY
 - DATAQUANTIC
 - EBRA SERVICES
 - EURO INFORMATION DEVELOPPEMENTS
 - EVIDEN FRANCE
-- FIDUCIAL INFORMATIQUE
 - GIE COOPERNIC
 - GROUPAMA SUPPORTS ET SERVICES
 - IBM SERVICES CENTER FRANCE
@@ -1947,43 +1927,26 @@
 ### GE
 - 2 MORO
 - A.S. TECHNOLOGIE
-- ACCENTURE
-- ACCENTURE DO BRASIL LTDA
-- ACCENTURE MIDDLE EAST B V ABU DHABI BRANCH LIMITED
-- ACCENTURE POST-TRADE PROCESSING SAS
-- ACCENTURE SERVICES (MAURITIUS) LTD
-- ACCENTURE TECHNOLOGY SOLUTIONS
-- ACTUAL ITS
-- ADENTIS
-- AIR LIQUIDE IT
+- [ADENTIS](https://www.hellowork.com/fr-fr/entreprises/adentis-116378.html#offres-emploi)
+- [AIR LIQUIDE](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer)
 - AIXIAL
-- AKKODIS DIGITAL SAS
-- AKKODIS HIGH TECH SAS
-- AKKODIS I&S SAS
-- AKKODIS INGENIERIE PRODUIT SAS
 - ALBIANT - IT
 - ALENTY
 - ALEXANDRIE
 - ALFI
 - ALIZENT FRANCE
 - ALIZENT INTERNATIONAL
-- ALLIANZ TECHNOLOGY
-- ALTEN
-- ALTEN SYSTEMES D'INFORMATION ET RESEAUX
-- ALTEN TECHNOLOGIES
-- ALTERSIS
-- ALTERSIS PARIS
-- ALTERSIS REGIONS
+- [ALLIANZ](https://careers.allianz.com/global/en/search-results)
+- [ALTEN](https://www.alten.fr/carriere/jobs)
 - ALTRAN TECHNOLOGIES
 - ALTURING
-- AMUNDI IT SERVICES
-- APIZEE
+- [AMUNDI](https://jobs.amundi.com/accueil.aspx?LCID=1036)
+- [APIZEE](https://www.apizee.com/careers.php)
 - APPEX
-- APX INTEGRATION
 - AREAS DATA
 - ARIA SYSTEMS UK LIMITED
-- ARKANCE SYSTEMS FRANCE
-- ARONDOR
+- [ARKANCE SYSTEMS FRANCE](https://arkance.world/fr-fr/carrieres)
+- [ARONDOR](https://www.arondor.com/les-annonces)
 - AS CONNECT
 - AS DELIVERY
 - AS INFRA
@@ -1991,45 +1954,26 @@
 - AS SYNERGIE
 - AS TELECOMS ET RESEAUX
 - ATALIAN SERVICES INFORMATIQUES
-- ATOS DIGITAL SECURITY
-- ATOS FRANCE
-- ATOS GENESIS
-- ATOS GLOBAL IT SOLUTIONS AND SERVICES PRIVATE LTD
-- ATOS HOLDING FRANCE 1
-- ATOS HOLDING FRANCE 2
-- ATOS INVESTISSEMENT 10
-- ATOS INVESTISSEMENT 19
-- ATOS INVESTISSEMENT 20
-- ATOS INVESTISSEMENT 21
-- ATOS MEDA
-- ATOS PARTICIPATION 2
-- AVEM
-- AXA GROUP OPERATIONS
+- ATOS : [1](https://jobs.atos.net/go/Jobs-in-France/3677001/) et [2](https://atos.net/en/join-us)
+- [AVEM](https://www.avem-groupe.com/nous-rejoindre/offres-emploi)
+- [AXA GROUP OPERATIONS](https://recrutement.axa.fr/nos-offres-emploi)
 - AXIANS UNIT - GIE
 - B4B SARL
-- BASIKON
-- BE:MO
+- [BASIKON](https://www.basikon.com/fr/career-page)
+- [BE:MO](https://www.welcometothejungle.com/fr/companies/be-mo-totalenergies/jobs)
 - BLUELINEA
-- BOUYGUES TELECOM BUSINESS SOLUTION
 - BOXA NOVA
-- BPCE INFOGERANCE ET TECHNOLOGIES
-- BPCE SOLUTIONS INFORMATIQUES
+- [BPCE GROUP](https://recrutement.bpce.fr/offres-emploi?external=false)
 - BREIDIC
 - BULL ISS
 - BULL SAS
 - CALIATYS
-- CAPGEMINI AMERICA, INC.
-- CAPGEMINI ENGINEERING ALLEMAGNE
-- CAPGEMINI ENGINEERING RESEARCH AND DEVELOPMENT
-- CAPGEMINI FRANCE
-- CAPGEMINI TECHNOLOGY SERVICES
-- CAPGEMINI UK PLC
+- [CAPGEMINI](https://www.capgemini.com/fr-fr/carrieres/rejoignez-nous/nos-offres-demploi/?page=1&size=11&country_code=fr-fr)
 - CARGONET SOFTWARE
 - CARTIER JOAILLERIE INTERNATIONAL SAS
-- CDC INFORMATIQUE
+- [CDC INFORMATIQUE](https://cdcinformatique-career.talent-soft.com/offre-de-emploi/liste-offres.aspx)
 - CEGELEC IT
-- CGI FRANCE
-- CGI FRANCE DEFENSE ET SPATIAL SAS
+- [CGI FRANCE](https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=joblisting&CountryID=FR&lang=2)
 - CIMPA
 - CITYWAY
 - CLEVA
@@ -2079,8 +2023,7 @@
 - EXPERTEAM
 - EXPERTIME
 - FAYAT IT
-- FIDUCIAL DIGITAL SOLUTIONS
-- FIDUCIAL INFORMATIQUE
+- [FIDUCIAL](https://jobs.fiducial.fr/)
 - FINAXYS
 - FRANCE BOISSONS
 - FREE PRO
@@ -2166,9 +2109,8 @@
 - RANDSTAD DIGITAL FRANCE
 - REALISATION DE SYSTEMES INFORMATIQUES INTEGRES - RS21
 - RECOMMERCE SOLUTIONS
-- RENAULT RETAIL GROUP
+- [RENAULT GROUP](https://www.renaultgroup.com/carrieres-renault/nos-offres-monde/)
 - RESONATEMP4
-- SAFRAN
 - SCALIAN
 - SCALIAN CONSULTING
 - SCALIAN DS
@@ -2190,8 +2132,7 @@
 - SOFTTHINKS
 - SOGETI LUXEMBOURG S.A.
 - SOMOS SEMICONDUCTOR
-- SOPRA STERIA GROUP
-- SOPRA STERIA INFRASTRUCTURE & SECURITY SERVICES
+- [SOPRA STERIA GROUP](https://careers.soprasteria.com/jobs)
 - SPIE ICS
 - SPIE SUPPORT SERVICES
 - SQUIREL
@@ -3087,34 +3028,26 @@
 ### GE
 - ABEBOOKS EUROPE GMBH
 - ACCESS HEBERGEMENT
-- ADECCO I.T. SERVICES
+- [ADECCO GROUP](https://careers.adeccogroup.com/fr/recherche-d'offres)
 - AELX
 - AFAQ Q TECH GENERAL TRADING LLC
 - AGARIK SAS
 - ALIENOR.NET
-- ALTAMETRIS
-- ALTIZEM
-- AMAZON ASIA-PACIFIC RESOURCES PRIVATE LIMITED
-- AMAZON COMMERCIAL SERVICES PTY LTD
-- AMAZON SERVICES INTERNATIONAL INC.
-- AMAZON TURKEY PERAKENDE HIZMETLERI LIMITED SIRKETI
-- AMAZON WEB SERVICES EMEA SARL
-- AMAZON.COM SERVICES  LLC
-- APX INTEGRATION
+- [ALTAMETRIS](https://www.welcometothejungle.com/fr/companies/altametris/jobs)
+- [ALTIZEM](https://altizem.com/offres-demploi)
+- [AMAZON](https://www.amazon.jobs/content/en/locations/france)
+- [AMAZON WEB SERVICES EMEA SARL](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&business_category%5B%5D=amazon-web-services&cmpid=AS_OTAW200199B)
+- [APX INTEGRATION](https://www.welcometothejungle.com/fr/companies/numeum/jobs) (Numeum)
 - AQUITEM
 - AS DEVOPS
-- ATOS FRANCE
-- ATOS SE
-- AUMOVIO DIGITAL SERVICES FRANCE
-- AVANCIAL
+- [AUMOVIO DIGITAL SERVICES FRANCE](https://jobs.aumovio.com/en/jobs/#)
+- [AVANCIAL](https://www.avancial.com/marque-employeur)
 - B'INFORMATION SERVICES
 - BEYOND
 - BILANS SERVICE
-- BLEU
+- [BLEU](https://www.bleucloud.fr/nous-rejoindre)
 - BLUESCALE
-- BOLLORE LOGISTICS ASIA PACIFIC CORPORATE PTE LTD
-- BPCE SERVICES FINANCIERS
-- BPCE SOLUTIONS CLIENTS
+- [BOLLORE GROUPE](https://jobs.bollore.com/fr/annonces)
 - CA-NOUVELLES EXPERTISES & OPERATIONS
 - CARREFOUR SYSTEMES D'INFORMATION
 - CASSIOP
@@ -3141,8 +3074,6 @@
 - EURO-INFORMATION PRODUCTION - GROUPEMENT INFORMATIQUE
 - EURO.TVS - TRAITEMENT VALEURS SERVICES
 - EVOLIS
-- FIDUCIAL CLOUD
-- FIDUCIAL CONSULTING
 - GEOPOST VISION
 - GEOPTIS
 - GIE I - DATECH
@@ -3199,7 +3130,6 @@
 - SNC ALTA NDC NOYAL
 - SNC ALTA NDC VAL DE REUIL
 - SOCIETE GENERALE - FORGE
-- SOPRA STERIA INFRASTRUCTURE & SECURITY SERVICES
 - STIME
 - SYSTELCOM
 - TASKRABBIT INC.
