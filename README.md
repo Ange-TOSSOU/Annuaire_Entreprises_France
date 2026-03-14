@@ -282,15 +282,10 @@
 ### GE
 - BARRIERE DIGITAL ENTERTAINMENT
 - [BLIZZARD ENTERTAINMENT SAS](https://careers.blizzard.com/fr/fr/search-results)
-- GAMELOFT PARIS
-- GAMELOFT SE
-- ISCOOL ENTERTAINMENT
-- IVORY TOWER
-- KEYSQUARE
-- UBISOFT EMEA
-- UBISOFT ENTERTAINMENT
-- UBISOFT MOBILE GAMES
-- WHAT (GAMES)
+- [GAMELOFT](https://www.gameloft.com/jobs)
+- [ISCOOL ENTERTAINMENT](https://www.iscoolentertainment.com)
+- [SQUARE ENIX](https://www.square-enix-games.com/fr_FR/careers)
+- [UBISOFT](https://www.ubisoft.com/fr-fr/company/careers/working-at-ubisoft)
 - [ZENIMAX MEDIA](https://jobs.zenimax.com/jobs)
 ### ETI
 - ADICTIZ
@@ -316,10 +311,9 @@
 - VOODOO
 ## Edition logiciels système et réseau
 ### GE
-- ASTERIOS TECHNOLOGIES
 - [BEEZUP](https://www.beezup.com/recrutement)
-- CENTRIC SOFTWARE SAS
-- DASSAULT SYSTEMES PROVENCE
+- [CENTRIC SOFTWARE SAS](https://centricsoftware.wd501.myworkdayjobs.com/Centric)
+- [DASSAULT SYSTEMES](https://www.3ds.com/careers/jobs)
 - DEVELOPPEMENT PLEIADE
 - ENOVACOM
 - ESQUALIBUR
@@ -427,7 +421,6 @@
 - CINETWORK
 - CITEGESTION
 - D-EDGE
-- DASSAULT SYSTEMES
 - DATANUMIA
 - DECLARANET
 - DEMATIC SAS
@@ -1287,7 +1280,6 @@
 - CREDIT AGRICOLE SANTE ET TERRITOIRES
 - CS GROUP - FRANCE
 - CXMP
-- DASSAULT SYSTEMES
 - DATA NEW ROAD
 - DECATHLON SSII
 - DESTINATION PRO
