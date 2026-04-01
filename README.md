@@ -1,39 +1,54 @@
 # Liste (plus ou moins) de grandes entreprises
 
+## Sommaire
+- [Fabrication de composants électroniques](#fabrication-de-composants-électroniques)
+- [Fabrication de cartes électroniques assemblées](#fabrication-de-cartes-électroniques-assemblées)
+- [Fabrication d'ordinateurs et d'équipements périphériques](#fabrication-dordinateurs-et-déquipements-périphériques)
+- [Fabrication d'équipements de communication](#fabrication-déquipements-de-communication)
+- [Fabrication de produits électroniques grand public](#fabrication-de-produits-électroniques-grand-public)
+- [Fabrication d'équipements d'aide à la navigation](#fabrication-déquipements-daide-à-la-navigation)
+- [Edition de jeux électroniques](#edition-de-jeux-électroniques)
+- [Edition logiciels système et réseau](#edition-logiciels-système-et-réseau)
+- [Edition de logiciels outils de développement et de langages](#edition-de-logiciels-outils-de-développement-et-de-langages)
+- [Edition de logiciels applicatifs](#edition-de-logiciels-applicatifs)
+- [Tierces maintenance de systèmes et d'applications informatiques](#tierces-maintenance-de-systèmes-et-dapplications-informatiques)
+- [Conseil en systèmes et logiciels informatiques](#conseil-en-systèmes-et-logiciels-informatiques)
+
 ## Fabrication de composants électroniques
 ### GE
-- BARILLEC SAS
-- EDF ENR PWT
-- PIEZOTECH S.A.
-- ROBERT BOSCH FRANCE
+- [BARILLEC SAS](https://www.vinci-energies.com/carrieres/)
+- [EDF ENR PWT](https://www.edf.fr/edf-recrute)
+- [PIEZOTECH S.A.](https://jobs.arkema.com/)
+- [ROBERT BOSCH FRANCE](https://jobs.bosch.com/fr/?country=fr)
 - [STMICROELECTRONICS](https://stmicroelectronics.eightfold.ai/careers)
-- SUNPOWER MANUFACTURING DE VERNEJOUL
-- THALES AVS FRANCE SAS
-- THALES HOLDINGS UK PLC
+- [SUNPOWER MANUFACTURING DE VERNEJOUL](https://sunpower.breezy.hr/)
+- [THALES AVS FRANCE SAS](https://www.thalesgroup.com/fr/carrieres)
+- [THALES HOLDINGS UK PLC](https://www.thalesgroup.com/fr/carrieres)
 ### ETI
-- 3D PLUS
+- [3D PLUS](https://careers.heico.com/)
 - A ET P - LITHOS
 - AGC MULTI MATERIAL EUROPE SASU
 - AGINODE CONNECT SASU
 - AKUO INDUSTRIES
 - ALIOS
-- AMPHENOL - AIR LB
-- AMPHENOL FCI BESANCON
-- AMPHENOL SOCAPEX
-- APEX ENERGIES
-- APTIV SERVICES 2 FRANCE SAS
-- ARMOR SMART FILMS
-- AXON CABLE
+- [AMPHENOL - AIR LB](https://www.amphenol-airlb.fr/fr/recrutements/)
+- [AMPHENOL FCI BESANCON](https://www.amphenol.com/careers)
+- [AMPHENOL SOCAPEX](https://www.amphenol.com/careers)
+- [APEX ENERGIES](https://apexenergies.recruitee.com/)
+- [APTIV SERVICES 2 FRANCE SAS](https://www.aptiv.com/careers)
+- [ARMOR SMART FILMS](https://www.armor-group.com/en/careers/)
+- [AXON CABLE](https://careers.werecruit.io/en/axon-cable)
 - BEAUC REALIS ETUD ELECTRO BREE
 - BELINK SOLUTIONS
-- C & K COMPONENTS SAS
+- [C & K COMPONENTS SAS](https://www.ckswitches.com/careers/)
 - CABLAGE CONNECTIQUE EUROPEEN
-- CIRETEC
+- [CAIRE](https://www.caire.fr/nous-rejoindre/)
+- [CIRETEC](https://www.linkedin.com/company/ciretec/)
 - COMPOSANTS CIRCUITS IMPRIMES EUROLAM
-- DINEL
-- DNP PHOTOMASK EUROPE S.P.A.
-- EATON EMOBILITY FRANCE
-- ECM TECHNOLOGIES
+- [DINEL](https://www.linkedin.com/company/2581139/)
+- [DNP PHOTOMASK EUROPE S.P.A.](https://www.linkedin.com/company/dnp/)
+- [EATON EMOBILITY FRANCE](https://www.eaton.com/fr/fr-fr/company/careers.html)
+- [ECM TECHNOLOGIES](https://www.linkedin.com/company/1508761/)
 - ELVIA PRINTED CIRCUIT BOARDS
 - ESARIS INDUSTRIES - SITE ATI-INTERCO
 - EXAIL
@@ -2373,8 +2388,6 @@
 - APIXIT
 - APOGEA
 - APPLE EUROPE INC.
-- APPLIC SCE ETUDES INGENIERIES INFORMATIQ
-- APPLICATIONS ET CONSEILS EN SYSTEMES
 - APPSEC ACADEMY
 - APSIDE
 - APSIDE TECHNOLOGIES
@@ -3483,7 +3496,6 @@
 - SEPTEO DIGITAL & SERVICES
 - SERVICHEQUE
 - SERVINFHO
-- SI PLUS
 - SIDEXA
 - SIP SOCIETE D INFORMATIQUE PERIPHERIQUE
 - SKERA
