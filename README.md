@@ -1242,9 +1242,8 @@
 ### GE
 - [ACCENTURE](https://www.accenture.com/fr-fr/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1)
 - [ACTUAL GROUP](https://www.actualgroup.com/nous-rejoindre)
-- ADSTELLAM
-- AGREGIO SOLUTIONS
-- AI REDEFINED FRANCE SAS
+- [ADSTELLAM](https://www.laddition.com/fr/recrutement)
+- [AGREGIO SOLUTIONS](https://agregiosolutions.nos-recrutements.fr/jobs?page=1)
 - [AIRBUS](https://ag.wd3.myworkdayjobs.com/Airbus)
 - [AKKODIS](https://www.akkodis.com/fr-fr/emplois/nos-offres?q=)
 - ALEDA SAS
